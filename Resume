@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>First Project</title>
+	</head>
+	<body>
+		<h1>Addison Jensen</h1>
+		<p><strong>Copywriter</strong></p>
+		<img src="https://cdn2.iconfinder.com/data/icons/avatars-99/62/avatar-370-456322-512.png" alt="Addison Jensen profile picture" height=50%; width=50%> 
+		<hr>
+		<h2><i>Summary</i>
+		<p>Diversely skilled and passionate about the power of words. Have extensive experience creating compelling copy and managing effective marketing campaigns. Knowledgeable in commercial production, website design, SEO analytics, and social media branding.</p>
+<h2><i>Experience</i></h2>
+<ul>
+<li><b>Marketing Manager | Blazek Law Group, June 2021 - Jan 2022</b>
+<p>Designed and developed advertising content and material for various multimedia platforms and created a new selling platform for a service launched in 2021. </p></li>
+<li><b>Marketing Director | Destinations Coffee House, Feb 2017 - June 2021</b>
+<p>Created copy for the ministry's website, fundraising events, and in-store displays while also handling day-to-day management of the store.</p></li>
+</ul>
+<h2><i>Education</i></h2>
+<ul>
+<li><b>Bachelor of Business | Major in Marketing</b>
+<p>University of Nebraska-Lincoln | May 2017</p></li></ul>
+<h2><b>Skills</b></h2>
+<table border="1">
+<tr>
+<th>Technologies</th>
+<td>Adobe Creative Suite</td>
+<td>Wix</td>
+<td>Kajabi</td>
+</tr>
+<tr>
+<th>Soft Skills</th>
+<td>Teamwork</td>
+<td>Diligent</td>
+<td>Responsible</td>
+</tr></table>
+<h2><i>Contacts</i></h2>
+<a href="https://github.com/RebornEternal" target="_blank">Github</a>
+<a href="https://www.linkedin.com/in/addison-jensen-8409b3104/" target="_blank">LinkedIn</a>
+<h2><i>Write me a message</i></h2>
+<form>
+<input placeholder="Name" required/><br>
+<input placeholder="Email" required/><br>
+<textarea placeholder="Message" required></textarea><br>
+<input type="submit" value="SEND"/>
+</form>
+</body>
+</html>
